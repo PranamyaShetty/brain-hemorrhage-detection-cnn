@@ -1,0 +1,19 @@
+# Core
+numpy
+pandas
+scikit-learn
+
+# Deep learning
+tensorflow>=2.9
+keras>=2.9
+
+# Visualization
+matplotlib
+seaborn
+
+# Image processing
+opencv-python
+Pillow
+
+# Google Colab (optional, not needed if run locally)
+google-colab
